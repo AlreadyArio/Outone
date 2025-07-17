@@ -22,7 +22,7 @@ export default function Home() {
             <div className="quote">
               &quot;If you can&apos;t explain something simply you don&apos;t understand it well enough&quot;
             </div>
-            <p>It means that simple comes from understanding <span className="highlight">what is essential</span>. Likewise then complex is not understanding enough of what is essential. So I'm reminded of a quote: "A simple life does not come from owning few things, it comes from understanding what are the right few necessary things. We should stop and ask ourselves the most secret and precious question. <span className="highlight">The question of what we truly want</span>.&quot; Software should understand what it&apos;s users want.</p>
+            <p>It means that simple comes from understanding <span className="highlight">what is essential</span>. Likewise then complex is not understanding enough of what is essential. So I&apos;m reminded of a quote: &quot;A simple life does not come from owning few things, it comes from understanding what are the right few necessary things. We should stop and ask ourselves the most secret and precious question. <span className="highlight">The question of what we truly want</span>.&quot; Software should understand what it&apos;s users want.</p>
           </div>
 
           <div className="principle">
