@@ -30,7 +30,7 @@ export default function Home() {
           </div>
 
           <div className="principle">
-            <h3>Don't think, shoot</h3>
+            <h3>Don&apos;t think, shoot</h3>
             <p>When you think too much about what you&apos;re trying to do, you&apos;re not taking action. When you&apos;re too busy setting up perfect lighting and cameras for the perfect picture, you&apos;re focusing too much on something that won&apos;t get you where you want to go.</p>
             <p>If you can make a better creation, do it. If you cannot, just take the picture and make it as nice as you can. Don&apos;t think too much—if thinking takes up so much time that you&apos;re not actually doing, that&apos;s a waste of time.</p>
             <p>I experienced this when I was trying to get the perfect picture of a laptop I was selling. I was setting up a ladder to take the perfect top-down shot when my mom, about to go to her room, saw me and said &quot;put it back, close the door, and just take a picture.&quot; In that moment, I understood the concept of noise versus signal.</p>
