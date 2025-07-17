@@ -11,7 +11,7 @@ export default function Home() {
       <section className="hero">
         <div className="container">
           <h2>You&apos;re the driver, software is the car.</h2>
-          <p>When you drive a car, you already know your destination. You know where you want to go. To the supermarket. To the music store. To the restaurant a for dinner reservation. You drive the car to the destination and the car gives you everything you need to navigate to it. Software should give you all the tools to get to where you want to go.</p>
+          <p>When you drive a car, you already know your destination. You know where you want to go. To the supermarket. To the music store. To the restaurant for a dinner reservation. You drive the car to the destination and the car gives you everything you need to navigate to it. Software should give you all the tools to get to where you want to go.</p>
         </div>
       </section>
 
