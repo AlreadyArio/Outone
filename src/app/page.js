@@ -19,8 +19,8 @@ export default function Home() {
         <div className="container">
           <div className="principle">
             <h3>Simple is understanding what is essential</h3>
-            <p>There's an old quote: "If you can't explain something simply, you don't understand it well enough." Simple is understanding what is essential. Complex is not understanding enough to keep it simple.</p>
-            <p>A simple life doesn't come from owning few things—it comes from understanding which are the right few necessary things. We can live much simpler lives if we ask ourselves the most important question: <span className="highlight">What do we truly want?</span></p>
+            <p>There&apos;s an old quote: &quot;If you can&apos;t explain something simply, you don&apos;t understand it well enough.&quot; Simple is understanding what is essential. Complex is not understanding enough to keep it simple.</p>
+            <p>A simple life doesn&apos;t come from owning few things—it comes from understanding which are the right few necessary things. We can live much simpler lives if we ask ourselves the most important question: <span className="highlight">What do we truly want?</span></p>
           </div>
 
           <div className="principle">
@@ -31,19 +31,19 @@ export default function Home() {
 
           <div className="principle">
             <h3>Don't think, shoot</h3>
-            <p>When you think too much about what you're trying to do, you're not taking action. When you're too busy setting up perfect lighting and cameras for the perfect picture, you're focusing too much on something that won't get you where you want to go.</p>
-            <p>If you can make a better creation, do it. If you cannot, just take the picture and make it as nice as you can. Don't think too much—if thinking takes up so much time that you're not actually doing, that's a waste of time.</p>
-            <p>I experienced this when I was trying to get the perfect picture of a laptop I was selling. I was setting up a ladder to take the perfect top-down shot when my mom, about to go to her room, saw me and said "put it back, close the door, and just take a picture." In that moment, I understood the concept of noise versus signal.</p>
+            <p>When you think too much about what you&apos;re trying to do, you&apos;re not taking action. When you&apos;re too busy setting up perfect lighting and cameras for the perfect picture, you&apos;re focusing too much on something that won&apos;t get you where you want to go.</p>
+            <p>If you can make a better creation, do it. If you cannot, just take the picture and make it as nice as you can. Don&apos;t think too much—if thinking takes up so much time that you&apos;re not actually doing, that&apos;s a waste of time.</p>
+            <p>I experienced this when I was trying to get the perfect picture of a laptop I was selling. I was setting up a ladder to take the perfect top-down shot when my mom, about to go to her room, saw me and said &quot;put it back, close the door, and just take a picture.&quot; In that moment, I understood the concept of noise versus signal.</p>
           </div>
 
           <div className="principle">
             <h3>Signal vs. Noise</h3>
-            <p>There's always space between channels—that's the noise, the static. When you find the right signal, you hear the news, the music station. It's the same with goals.</p>
+            <p>There&apos;s always space between channels—that&apos;s the noise, the static. When you find the right signal, you hear the news, the music station. It&apos;s the same with goals.</p>
             <p>Why would you spend three months building the perfect website (noise) when you could send an email to twenty people in one day and get those users, then build the website when the problem is actually a problem? Go after the signal.</p>
           </div>
 
           <div className="quote">
-            "Software should never clutter the desk of the user. Software should BE the desk of the user, and the user can clutter it or keep it empty."
+            &quot;Software should never clutter the desk of the user. Software should BE the desk of the user, and the user can clutter it or keep it empty.&quot;
           </div>
 
           <div className="principle">
@@ -55,7 +55,7 @@ export default function Home() {
           <div className="principle">
             <h3>Software should make your creations better</h3>
             <p>Software should be the subconscious mind that makes your story, game design, philosophy, or any creation better than you could make it alone. It should understand what you want and give you the tools to navigate to your destination.</p>
-            <p>Just like choosing a health insurance plan—if I'm picking it for you, I should get the same plan. Software should eat its own dog food and make the experience better for everyone.</p>
+            <p>Just like choosing a health insurance plan—if I&apos;m picking it for you, I should get the same plan. Software should eat its own dog food and make the experience better for everyone.</p>
           </div>
         </div>
       </section>
