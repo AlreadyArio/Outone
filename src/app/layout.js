@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Animozo - The Software Manifesto',
+  title: 'Outone',
   description: 'Encouraging simplicity and focus in software design',
 }
 
