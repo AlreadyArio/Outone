@@ -37,16 +37,16 @@ export default function Home() {
 
           <div className="principle">
             <h3>4. Leave it and just take a picture.</h3>
-            <p>We all have moments when we think too much about something or try to do too much to at once. I was reminded of this when preparing to take picture of a laptop I was about to sell online. I turned on all the lights and set up the laptop at the table and as I was about to get the ladder for a perfect top down picture my mother saw me and saved me from myself. She said <span className="highlight">&quot;Leave the ladder, close the door and just take a picture&quot;</span></p>
+            <p>We all have moments when we think too much about something or try to do too much to at once. I was reminded of this when preparing to take a picture of a laptop I was about to sell online. I turned on all the lights and set up the laptop at the table and as I was about to get the ladder for a perfect top down picture my mother saw me and saved me from myself. She said <span className="highlight">&quot;Leave the ladder, close the door and just take a picture&quot;</span></p>
           </div>
 
           <div className="principle">
             <h3>5. Radio Static</h3>
-            <p>When you turn on the radio you&apos;re most likely greeted by the sound of static. <span className="highlight">Noise</span>. The space in between channels. And, when you turn the dial, you find that it reaches the right signal. That signal being music stations or the news channel. When you have a goal you&apos;ve got to know when you&apos;re getting closer to the <span className="highlight">signal</span> and try to keep yourself on that signal as much as possible. Let&apos;s say your goal is to get three users this month. Why then would you spend 20 days creating the perfect website. (Noise) When you can just as well send out 25 emails in one day and get those three users. (Signal) We&apos;ve got to learn, how to ask ourselves:</p>
+            <p>When you turn on the radio you&apos;re most likely greeted by the sound of static. <span className="highlight">Noise</span>. The space in between channels. And, when you turn the dial, you find that it reaches a signal. That signal being the music stations or the news channel. When you have a goal you&apos;ve got to know when you&apos;re getting closer to the <span className="highlight">signal</span> and try to keep yourself on that signal as much as possible. Let&apos;s say your goal is to get three users this month. Why then would you spend 20 days creating the perfect website. (Noise) When you can just as well send out 25 emails in one day and get those three users. (Signal) We&apos;ve got to learn, how to ask ourselves:</p>
             <div className="quote">
               &quot;Will doing this get me to where I want to go?&quot;
             </div>
-            <p>After six months I figured how to do it. Be aware.</p>
+            <p>After six months I figured out how to do it. Be aware.</p>
           </div>
 
           <div className="principle">
@@ -56,7 +56,7 @@ export default function Home() {
 
           <div className="principle">
             <h3>7. On the Spot</h3>
-            <p>This manifesto was recorded, transcribed, highlighted and now rewritten to a readable manifesto. Before recording I had written down many things that I wanted to talk about and yet when the recording started I discarded the keynotes. I realized that what I would come up with on the spot would be <span className="highlight">one hundred times better</span> than what I&apos;d written down. Looking back, it&apos;s nothing like it and it is also quite similar because my mind remembered what was really important and found out a better way to say it. <span className="highlight"> Software should be the mind which makes our story, the blog, video, music, game or drawing or anything which we create or do, one hundred time better.</span>.</p>
+            <p>This manifesto was recorded, transcribed, highlighted and now rewritten to a readable manifesto. Before recording I had written down many things that I wanted to talk about and yet when the recording started I discarded the keynotes. I realized that what I would come up with on the spot would be <span className="highlight">one hundred times better</span> than what I&apos;d written down. Looking back, it&apos;s nothing like it and it is also quite similar because my mind remembered what was really important and found out a better way to say it. <span className="highlight"> Software should be the mind which makes our story, the blog, video, music, game or drawing or anything which we create or do, one hundred times better.</span>.</p>
           </div>
         </div>
       </section>
