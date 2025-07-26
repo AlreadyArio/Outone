@@ -52,7 +52,7 @@ export default function Home() {
             <h3>6. Messy Steve</h3>
             <p>My room had always been simple and organized. I took inspiration from that picture from Steve Jobs sitting in his apartment with only some music records, papers and a lamp. Recently I found another picture. In his office. With clutter all around. I realised when you have everything out in front of you it is easier to connect between concepts and ideas. Software should be the desk of the user.</p>
           </div>
-
+        </div>
       </section>
 
       <footer>
