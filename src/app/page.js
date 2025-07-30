@@ -31,7 +31,7 @@ export default function Home() {
 
           <div className="principle">
             <h3>3. Just take a picture</h3>
-            <p>When preparing to sell my laptop, I was busy taking out the ladder for a perfect top down picture. Thats when someone saw me and said <span className="highlight">&quot;Leave the ladder, close the door and just take a picture&quot;</span>. Don't go off course on your journey towards your destination. Software should know what it stands for.</p>
+            <p>When preparing to sell my laptop, I was busy taking out the ladder for a perfect top down picture. Thats when someone saw me and said <span className="highlight">&quot;Leave the ladder, close the door and just take a picture&quot;</span>. Don&apos;t go off course on your journey towards your destination. Software should know what it stands for.</p>
           </div>
 
           <div className="principle">
