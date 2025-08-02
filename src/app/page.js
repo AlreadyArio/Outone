@@ -3,14 +3,14 @@ export default function Home() {
     <>
       <header className="header">
         <div className="container">
-          <h1>Break Out One</h1>
+          <h1>Outone</h1>
           <p className="subtitle"></p>
         </div>
       </header>
 
       <section className="hero">
         <div className="container">
-          <p>You already know your destination. You need the tools to navigate to it. Software should give you those tools to get to your destination.</p>
+          <p>You already know your destination. All you need the tools to navigate to it. Software should give you those tools to get to your destination.</p>
         </div>
       </section>
 
@@ -43,7 +43,7 @@ export default function Home() {
 
       <footer>
         <div className="container">
-          <p></p>
+          <p>Things you love, you would do for no money. Because you find that it was never about the money anyway.</p>
         </div>
       </footer>
     </>
