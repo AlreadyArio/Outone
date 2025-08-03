@@ -3,47 +3,183 @@ export default function Home() {
     <>
       <header className="header">
         <div className="container">
-          <h1>Outone</h1>
-          <p className="subtitle"></p>
+          <p className="subtitle">50 goals + 1 which is post scriptum.</p>
         </div>
       </header>
-
-      <section className="hero">
-        <div className="container">
-          <p>You already know your destination. All you need the tools to navigate to it. Software should give you those tools to get to your destination.</p>
-        </div>
-      </section>
 
       <section className="manifesto">
         <div className="container">
           <div className="principle">
-            <h3>1. What do you want?</h3>
-            <div className="quote">
-              &quot;Simple means understanding&quot;
-            </div>
-            <p>So I&apos;m reminded of a quote: &quot;A simple life does not come from owning few things, it comes from understanding what are the right few necessary things. We should stop and ask ourselves the most secret and precious question. The question of what we truly want.&quot; Software should understand what it&apos;s users want.</p>
+            <h3>1. Break addiction</h3>
+          </div>
+    <div className="principle">
+            <h3>2. Travel the world</h3>
+          </div>
+    <div className="principle">
+            <h3>3. Befriend John Ive</h3>
+          </div>
+    <div className="principle">
+            <h3>4. Befriend Simon Sinek</h3>
+          </div>
+    <div className="principle">
+            <h3>5. Befriend Derek Sivers</h3>
+          </div>
+    <div className="principle">
+            <h3>6. Meet The Weeknd</h3>
+          </div>
+    <div className="principle">
+            <h3>7. Have awesome amoroso</h3>
+          </div>
+    <div className="principle">
+            <h3>8. Learn from African billionaires</h3>
+          </div>
+    <div className="principle">
+            <h3>9. Live in India</h3>
+          </div>
+    <div className="principle">
+            <h3>10. Make something useful</h3>
+          </div>
+    <div className="principle">
+            <h3>11. Get a drivers license</h3>
+          </div>
+    <div className="principle">
+            <h3>12. Become really good at connecting</h3>
           </div>
 
-          <div className="principle">
-            <h3>2. Give back to others</h3>
-            <p>How can you share you software with others if you never actually use it yourself? Software should be used by those who make it</p>
+    <div className="principle">
+            <h3>13. Learn how to lead and make believe</h3>
+          </div>
+    <div className="principle">
+            <h3>14. Buy a house for mom</h3>
+          </div>
+    <div className="principle">
+            <h3>15. Visit Finn. Go to NYC</h3>
+          </div>
+    <div className="principle">
+            <h3>16. Be a great founder and visionaire</h3>
+          </div>
+    <div className="principle">
+            <h3>17. Be a great CEO</h3>
+          </div>
+    <div className="principle">
+            <h3>18. Write a book</h3>
+          </div>
+    <div className="principle">
+            <h3>19. Be in a long fun and inspiring relationship</h3>
+          </div>
+    <div className="principle">
+            <h3>20. Fly on a private plane</h3>
+          </div>
+    <div className="principle">
+            <h3>21. Have a private driver</h3>
+          </div>
+    <div className="principle">
+            <h3>22. Own businesses</h3>
+          </div>
+    <div className="principle">
+            <h3>23. Keep a journal</h3>
+          </div>
+    <div className="principle">
+            <h3>24. Lead teams</h3>
+          </div>
+    <div className="principle">
+            <h3>25. Solve global warming</h3>
+          </div>
+    <div className="principle">
+            <h3>26. Sail with Finn</h3>
+          </div>
+    <div className="principle">
+            <h3>27. Friends with brother</h3>
+          </div>
+    <div className="principle">
+            <h3>28. Eat with kings and queens of all countries</h3>
+          </div>
+    <div className="principle">
+            <h3>29. Fly hot air balloon</h3>
+          </div>
+    <div className="principle">
+            <h3>30. Make Avatar Last Airbender version 3</h3>
+          </div>
+    <div className="principle">
+            <h3>31. Japan with Finn & Bora</h3>
+          </div>
+    <div className="principle">
+            <h3>32. Christmas with all family</h3>
+          </div>
+    <div className="principle">
+            <h3>33. Make name to upcoming models</h3>
+          </div>
+    <div className="principle">
+            <h3>34. Reinvent kitchen appliances</h3>
+          </div>
+    <div className="principle">
+            <h3>35. Be a great friend</h3>
+          </div>
+    <div className="principle">
+            <h3>36. Big Sound Stage</h3>
+          </div>
+    <div className="principle">
+            <h3>37. Monaco</h3>
+          </div>
+    <div className="principle">
+            <h3>38. Work with awesome people</h3>
+          </div>
+    <div className="principle">
+            <h3>39. Advance robotics and domotics</h3>
+          </div>
+    <div className="principle">
+            <h3>40. start a movement</h3>
+          </div>
+    <div className="principle">
+            <h3>41. Become a brilliant mind</h3>
           </div>
 
-          <div className="principle">
-            <h3>3. Just take a picture</h3>
-            <p>When preparing to sell my laptop, I was busy taking out the ladder for a perfect top down picture. Thats when someone saw me and said <span className="highlight">&quot;Leave the ladder, close the door and just take a picture&quot;</span>. Don&apos;t go off course on your journey towards your destination. Software should know what it stands for.</p>
+    <div className="principle">
+            <h3>42. Be the Jim Rohn for the new guys</h3>
           </div>
 
-          <div className="principle">
-            <h3>4. Messy Desk</h3>
-            <p>When you have everything out in front of you it is easier to connect between concepts and ideas. Software should be the desk of the user.</p>
+    <div className="principle">
+            <h3>43. Learn conflict and arguments</h3>
           </div>
+
+    <div className="principle">
+            <h3>44. Become the fastest business builder</h3>
+          </div>
+
+    <div className="principle">
+            <h3>45. Put NL on global stage</h3>
+          </div>
+
+    <div className="principle">
+            <h3>46. Make Africa great</h3>
+          </div>
+
+    <div className="principle">
+            <h3>47. Freedom Financial</h3>
+          </div>
+
+    <div className="principle">
+            <h3>48. Dyson!!!!!!!</h3>
+          </div>
+
+    <div className="principle">
+            <h3>49. Live Poor, Live Rich</h3>
+          </div>
+
+    <div className="principle">
+            <h3>50. Make them proud. x</h3>
+          </div>
+
+    <div className="principle">
+            <h3>51. Visit museums</h3>
+          </div>
+
         </div>
       </section>
 
       <footer>
         <div className="container">
-          <p>Things you love, you would do for no money. Because you find that it was never about the money anyway.</p>
+          <p></p>
         </div>
       </footer>
     </>
