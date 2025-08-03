@@ -3,7 +3,7 @@ export default function Home() {
     <>
       <header className="header">
         <div className="container">
-          <p className="subtitle">50 goals + 1 which is post scriptum.</p>
+          <p className="subtitle">50 goals + 1 post scriptum.</p>
         </div>
       </header>
 
