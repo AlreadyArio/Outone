@@ -107,7 +107,7 @@ export default function Home() {
             <h3>32. Christmas with all family</h3>
           </div>
     <div className="principle">
-            <h3>33. Make name to upcoming models</h3>
+            <h3>33. Make name for upcoming models</h3>
           </div>
     <div className="principle">
             <h3>34. Reinvent kitchen appliances</h3>
