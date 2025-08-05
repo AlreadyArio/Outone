@@ -36,14 +36,18 @@ export default function Home() {
 
           <div className="principle">
             <h3>4. Messy Desk</h3>
-            <p>When you have everything out in front of you it is easier to connect between concepts and ideas. Software should be the desk of the user.</p>
+            <p>Creativity comes from messy, in the box thinking comes from tidy.
+Tidy makes us care more about others, messy makes us care more about our craft.
+Messy break rules, tidy sticks to rules.
+Tidy and messy is life.
+It goes everywhere we do.</p>
           </div>
         </div>
       </section>
 
       <footer>
         <div className="container">
-          <p>Things you love, you would do for no money. Because you find that it was never about the money anyway.</p>
+          <p>Love does not come from money, life does not come from money.</p>
         </div>
       </footer>
     </>
