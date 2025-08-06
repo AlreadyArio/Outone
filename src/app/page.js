@@ -10,7 +10,9 @@ export default function Home() {
 
       <section className="hero">
         <div className="container">
-          <p>You already know your destination. All you need the tools to navigate to it. Software should give you those tools to get to your destination.</p>
+          <p>You know the destination.
+All you need is the compass.
+</p>
         </div>
       </section>
 
