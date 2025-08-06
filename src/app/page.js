@@ -38,7 +38,7 @@ You use one word when you can show an image.</p>
             <p>Creativity comes from messy, in the box thinking comes from tidy.
 Tidy makes us care more about others, messy makes us care more about our craft.
 Messy break rules, tidy sticks to rules.
-Tidy and messy is life.
+Tidy and messy are life.
 It goes everywhere we do.</p>
           </div>
         </div>
