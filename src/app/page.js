@@ -19,9 +19,11 @@ export default function Home() {
           <div className="principle">
             <h3>1. What do you want?</h3>
             <div className="quote">
-              &quot;Simple means understanding&quot;
+              &quot;Simplicity&quot;
             </div>
-            <p>So I&apos;m reminded of a quote: &quot;A simple life does not come from owning few things, it comes from understanding what are the right few necessary things. We should stop and ask ourselves the most secret and precious question. The question of what we truly want.&quot; Software should understand what it&apos;s users want.</p>
+            <p>You are complicated.
+You use ten words when you can use one.
+You use one word when you can show an image.</p>
           </div>
 
           <div className="principle">
