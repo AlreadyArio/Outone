@@ -3,18 +3,12 @@ export default function Home() {
     <>
       <header className="header">
         <div className="container">
-          <h1>Outone</h1>
+          <h1>You know the destination.
+All you need is the compass.
+</h1>
           <p className="subtitle"></p>
         </div>
       </header>
-
-      <section className="hero">
-        <div className="container">
-          <p>You know the destination.
-All you need is the compass.
-</p>
-        </div>
-      </section>
 
       <section className="manifesto">
         <div className="container">
