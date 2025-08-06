@@ -17,10 +17,7 @@ export default function Home() {
       <section className="manifesto">
         <div className="container">
           <div className="principle">
-            <h3>1. What do you want?</h3>
-            <div className="quote">
-              &quot;Simplicity&quot;
-            </div>
+            <h3>1. Simplicity</h3>
             <p>You are complicated.
 You use ten words when you can use one.
 You use one word when you can show an image.</p>
