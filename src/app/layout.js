@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Outone',
-  description: 'Encouraging simplicity and focus in software design',
+  title: '01',
+  description: '',
 }
 
 export default function RootLayout({ children }) {
