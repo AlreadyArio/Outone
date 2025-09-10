@@ -3,7 +3,7 @@ export default function Home() {
     <>
       <header className="header">
         <div className="container">
-          <h1>The world is yours.</h1>
+          <h1>The world is yours..</h1>
           <p className="subtitle"></p>
         </div>
       </header>
